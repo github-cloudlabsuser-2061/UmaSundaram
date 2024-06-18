@@ -1,0 +1,11 @@
+{
+    // Name this configuration
+    "name": "Codespace for hackathon!",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
